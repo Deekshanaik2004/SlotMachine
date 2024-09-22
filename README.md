@@ -1,2 +1,2 @@
 # SlotMachine
-This is a simple javascript project.
+This is a simple beginner friendly Javascript Project.
